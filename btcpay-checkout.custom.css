@@ -1,0 +1,35 @@
+.top-header {background-color: #f5f5f5;}
+.top-header .timer-row__progress-bar {background:#050a0f;}
+.top-header .timer-row {background: #464646}
+  
+body { 
+    background: url("https://image.infinitefleet.com/fit-in/720x576/df11e6e469a146dabb63e350ea081a99.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.header__icon__img {
+  display: block;
+  width:auto;  /*===HEADER DIMENSIONS===*/
+  height: 60px;  /*===HEADER DIMENSIONS===*/
+  margin-left:20px; /*===HEADER POSITION CORRECTION===*/
+  margin-top:-10px;   /*===HEADER POSITION CORRECTION===*/
+  background-color: #464646;
+  border-radius: 5px 5px 0px 0px;}
+
+.close-icon {color:#000;}
+.payment-tabs__slider {background: #050a0f;     }
+.payment-tabs__tab.active {background: #f5f5f5; font-weight: 400; transition: all .2s ease;border-bottom: #050a0f 3px solid;}
+.separatorGem {background: #050a0f;}
+.action-button {color: #464646; background-color: #050a0f;border-color: #050a0f;}
+.action-button:hover {background-color: #464646;}
+.action-button:focus, .action-button.focus {color: #464646;background-color: #050a0f;
+    border-color: #050a0f;}
+.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #464646;    background-color: #050a0f;    border-color: #050a0f;}
+.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #464646;    background-color: #050a0f;    border-color: #050a0f;}
+.btnGroupLnd button {border: solid 1px #050a0f;}
+.btnGroupLnd button.active {background-color: #050a0f; border-color: #050a0f;}
+.btnGroupLnd button:hover {background-color:#464646;}
+.btnGroupLnd button.active:hover {background-color:#050a0f;}
